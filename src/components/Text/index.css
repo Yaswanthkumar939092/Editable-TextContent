@@ -1,0 +1,35 @@
+.bg-cont {
+  background-color: #f5d0fe;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cord-cont {
+  background-color: #ffffff;
+  height: 30vh;
+  width: 50vw;
+  padding: 20px;
+}
+
+h1 {
+  color: black;
+  font-size: 24px;
+}
+p {
+  height: 20px;
+  width: 60px;
+}
+
+.flex {
+  display: flex;
+}
+.button {
+  background-color: #d946ef;
+  border-width: 0px;
+  height: 20px;
+  width: 100px;
+}
